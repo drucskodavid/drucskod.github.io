@@ -7,16 +7,16 @@
 html>body {overflow-x:hidden;}
 
 :root{
-    --color-primary: rgb(255, 168, 0);
+    --color-primary: rgb(138, 181, 22);
     --color-text: rgba(0, 0, 0, .6);
 }
 
 ::-moz-selection { /* Code for Firefox */
-    background: rgba(255, 168, 0, 0.35);
+    background: rgba(138, 181, 22, 0.35);
 }
   
 ::selection {
-    background: rgba(255, 168, 0, .35);
+    background: rgba(138, 181, 22, .35);
 }
 
 .gotop{
